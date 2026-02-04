@@ -2,5 +2,5 @@
   "Status": true,
   "version": 2,
   "libs": "https://github.com/zeroa7227-lang/ZeroOp/releases/download/V6/ZeroOp_payload.png",
-  "Dlib": true
+  "Dlib": false
 }
